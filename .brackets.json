@@ -1,0 +1,8 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/msmith/Desktop/Projects/BBDO/bbdo_gps_map/myApp/www/js/triangulate.js",
+        "/Users/msmith/Desktop/Projects/BBDO/bbdo_gps_map/myApp/www/js/services.js",
+        "/Users/msmith/Desktop/Projects/BBDO/bbdo_gps_map/myApp/www/js/PathfindingAndMap.js",
+        "/Users/msmith/Desktop/Projects/BBDO/bbdo_gps_map/myApp/www/js/app.js"
+    ]
+}
